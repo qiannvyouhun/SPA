@@ -1,0 +1,11 @@
+6. 数学公式编辑（选做）
+基本要求：
+
+在 spa 仓库创建 35-formula 目录
+使用 Mathquill 插件在页面上实现一个数学公式编辑功能
+通过添加按钮将数学公式编辑框中的数学公式添加到页面上
+参考资料：
+http://docs.mathquill.com/en/latest/
+
+示例参考：
+https://fe.wangding.in/03-third-part-widget/05-formula.html
