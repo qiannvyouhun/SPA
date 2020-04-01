@@ -1,0 +1,14 @@
+2. 二进熵函数:
+
+基本要求：
+在 spa 仓库创建 31-echart 目录
+使用 EChart 组件绘制二进熵函数曲线
+二进熵函数：H(p) = -p*log(p)-(1-p)log(1-p)
+二进熵函数中 p 是概率，取值范围是 0~1 之间
+二进熵函数的对数底数是 2
+
+参考资料：
+http://echarts.baidu.com/tutorial.html
+
+示例参考：
+https://fe.wangding.in/03-third-part-widget/01-echart.html
