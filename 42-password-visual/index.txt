@@ -1,0 +1,13 @@
+3. 密码可见组件:
+
+基本要求：
+在 spa 仓库创建 42-password-visual 目录
+封装密码可见组件
+封装后的代码文件包括：一个 js 文件和一个 css 文件
+创建密码可见组件时，可以通过参数初始化：
+container: 创建密码可见组件的容器
+密码可见组件暴露一个 getPwd 方法，返回密码明文
+编写密码可见组件的测试页面
+
+示例参考：
+密码可见: https://fe.wangding.in/04-ui-component/02-password/01-index.html
