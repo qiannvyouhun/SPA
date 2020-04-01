@@ -1,0 +1,11 @@
+5. H5 校验:
+
+基本要求：
+在 spa 仓库创建 21-h5-validation 目录
+复制 rectangle 仓库 v1.0 版本的代码
+利用 H5 内置控件提供的数据合法性校验功能
+实现字段级和字符级数据合法性校验
+通往 H5 验证的伪类来提供数据验证与否的标记
+
+参考示例：
+https://fe.wangding.in/02-validation/03-h5-validation.html
