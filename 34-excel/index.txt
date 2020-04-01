@@ -1,0 +1,13 @@
+5. Excel 表格:
+
+基本要求：
+在 spa 仓库创建 34-excel 目录
+使用 handsontable 插件在页面上显示一个 Excel 表格
+表格提供上下文菜单
+在页面上显示一个有意义的数据
+
+参考资料：
+handsontable: https://handsontable.com/
+
+示例参考：
+Excel 表格: https://fe.wangding.in/03-third-part-widget/03-excel.html
