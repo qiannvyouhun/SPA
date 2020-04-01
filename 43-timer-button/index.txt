@@ -1,0 +1,10 @@
+13. 定时器按钮组件:
+
+基本要求：
+在 spa 仓库创建 43-timer-button 目录
+在之前封装的定时器按钮组件基础上
+用 require.js 重新封装定时器按钮
+修改测试页面，按需加载定时器按钮组件
+
+示例参考：
+定时器按钮-按需加载: https://fe.wangding.in/04-ui-component/01-button/10-index.html
